@@ -16,7 +16,8 @@ Hello World! 🐲
 </div>
 
 ##
-  
+ 
+![Snake animation](https://github.com/MathSOliv/rafaballerini/blob/output/github-contribution-grid-snake.svg)
   
 
 
