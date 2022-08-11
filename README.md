@@ -1,8 +1,8 @@
 ## Hello World!
 <div align="center">
   <a href="https://github.com/MathSOliv">
-  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=MathSOliv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathSOliv&layout=compact&langs_count=7&theme=dracula"/>
+  <img width="450em" src="https://github-readme-stats.vercel.app/api?username=MathSOliv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathSOliv&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div style="display: inline_block align=center">
