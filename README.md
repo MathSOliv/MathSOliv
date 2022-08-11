@@ -1,11 +1,18 @@
-## Hello World!🐲
+<div align="center">
+  <h3>Hello World!🐲</h3>
+</div>
+
+##
+
 <div align="center">
   <a href="https://github.com/MathSOliv">
   <img width="381em" src="https://github-readme-stats.vercel.app/api?username=MathSOliv&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathSOliv&layout=compact&langs_count=7&theme=prussian"/>
 </div>
 
-<div style="display: inline_block align=center">
+##
+
+<div align="center">
   <img align="center" alt="HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
   <img align="center" alt="CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/>
   <img align="center" alt="JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
@@ -17,4 +24,5 @@
 
 ##
  
-![Snake animation](https://github.com/MathSOliv/MathSOliv/blob/output/github-contribution-grid-snake.svg)
+
+  ![Snake animation](https://github.com/MathSOliv/MathSOliv/blob/output/github-contribution-grid-snake.svg)
