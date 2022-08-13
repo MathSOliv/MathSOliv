@@ -5,6 +5,12 @@
 ##
 
 <div align="center">
+<img align="center" height="185" src="https://static.wikia.nocookie.net/liberproeliis/images/d/d4/Shenlong_db_by_changopepe-d3e8ltb.png/revision/latest?cb=20161031215201&path-prefix=pt-br"/>
+</div>
+
+##
+
+<div align="center">
   <a href="https://github.com/MathSOliv">
   <img width="381em" src="https://github-readme-stats.vercel.app/api?username=MathSOliv&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathSOliv&layout=compact&langs_count=7&theme=prussian"/>
