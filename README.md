@@ -5,7 +5,7 @@
 ##
 
 <div align="center">
-<img align="center" height="185" src="https://static.wikia.nocookie.net/liberproeliis/images/d/d4/Shenlong_db_by_changopepe-d3e8ltb.png/revision/latest?cb=20161031215201&path-prefix=pt-br"/>
+<img align="center" height="85" src="https://seeklogo.com/images/C/cloud-akatsuki-logo-17E3DF7FAC-seeklogo.com.png"/>
 </div>
 
 ##
