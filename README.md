@@ -11,6 +11,8 @@
 ![LARAVEL](https://img.shields.io/badge/-LARAVEL-FF3427?style=for-the-badge&logo=laravel&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/-MYSQL-0A3627?style=for-the-badge&logo=mysql&logoColor=white)
 ![MSSQL](https://img.shields.io/badge/-MICROSOFT%20SQL%20SERVER-A9181B?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-
+![GIT](https://img.shields.io/badge/-git-F05539?style=for-the-badge&logo=git&logoColor=white)
+![VSCODE](https://img.shields.io/badge/-visual%20studio%20code-007ACC?style=for-the-badge&logo=visual-studio&logoColor=white)
+![FIGMA](https://img.shields.io/badge/-figma-591D79?style=for-the-badge&logo=figma&logoColor=white)
 
 ##
