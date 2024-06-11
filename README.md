@@ -14,5 +14,10 @@
 ![GIT](https://img.shields.io/badge/-git-F05539?style=for-the-badge&logo=git&logoColor=white)
 ![VSCODE](https://img.shields.io/badge/-visual%20studio%20code-007ACC?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![FIGMA](https://img.shields.io/badge/-figma-591D79?style=for-the-badge&logo=figma&logoColor=white)
+![PHOTOSHOP](https://img.shields.io/badge/-photoshop-00008B?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![CORELDRAW](https://img.shields.io/badge/-coreldraw-00B33B?style=for-the-badge&logo=coreldraw&logoColor=white)
+
+
+
 
 ##
