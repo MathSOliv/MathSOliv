@@ -24,7 +24,7 @@
 
 <hr />
 
-### &nbsp;Contact me
+### 🚀 &nbsp;Contact me
 
 <a href = "mailto:matheus.silvagab@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EB4235?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>&nbsp;
 <a href = ""><img src="https://img.shields.io/badge/-whatsapp-0DBF43?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>&nbsp;
