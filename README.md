@@ -10,7 +10,6 @@
 ![REACT](https://img.shields.io/badge/-REACTJS-08CEFF?style=for-the-badge&logo=react&logoColor=white)
 ![PYTHON](https://img.shields.io/badge/-PYTHON-3E73A0?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-8D96C0?style=for-the-badge&logo=php&logoColor=white)
-![LARAVEL](https://img.shields.io/badge/-LARAVEL-FF3427?style=for-the-badge&logo=laravel&logoColor=white)
 ![GIT](https://img.shields.io/badge/-git-F05539?style=for-the-badge&logo=git&logoColor=white)
 ![FIGMA](https://img.shields.io/badge/-figma-591D79?style=for-the-badge&logo=figma&logoColor=white)
 ![PHOTOSHOP](https://img.shields.io/badge/-photoshop-00008B?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
